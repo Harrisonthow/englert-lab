@@ -25,9 +25,9 @@ auto-cite:
     - name: orcid
       input:
         - ../_data/orcid.yaml
-    - name: sources
+    - name: orcid
       input:
-        - ../_data/sources.yaml
+        - ../_data/orcid.yaml
   output: ../_data/citations.yaml
 
 # default front matter parameters for markdown files

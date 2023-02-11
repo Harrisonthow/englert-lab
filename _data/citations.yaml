@@ -12,7 +12,7 @@
   date: '2023-04-01'
   link: https://doi.org/grrbbf
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 8c0f6090c4771825e1d7924f864814193f83532f66d7976b69187664278d178b
 - id: doi:10.4049/jimmunol.2100994
   title: PRMT5 in T Cells Drives Th17 Responses, Mixed Granulocytic Inflammation,
@@ -34,7 +34,7 @@
   date: '2022-04-01'
   link: https://doi.org/grrbbg
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 94c0c450c80daa145be9767cbec975cb2849880dbdde870c29522280dc2cfe8a
 - id: doi:10.1101/2021.10.13.464281
   title: PRMT5 in T cells drives Th17 responses, mixed granulocytic inflammation and
@@ -56,7 +56,7 @@
   date: '2021-10-14'
   link: https://doi.org/grrbbh
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 27d5006a243a6cc5999f7fb2ec96dd6212d90784cc28128256a76599eff9550e
 - id: doi:10.1152/ajplung.00093.2021
   title: 'Kidney-lung cross talk during ARDS: mitochondrial DAMPs join the conversation'
@@ -67,7 +67,7 @@
   date: '2021-05-01'
   link: https://doi.org/grrbbj
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 01c62c890bdb78f76b0cb8a54b59e9df3e32b4f0114e380a769fa3813fba95f7
 - id: doi:10.1164/rccm.202002-0285UP
   title: Update in Critical Care 2019
@@ -82,7 +82,7 @@
   date: '2020-05-01'
   link: https://doi.org/grrbbk
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 560b5bae3a20a43c45c657e276a23987e8096e2436d305925ea50854e9874732
 - id: doi:10.1186/s12931-019-0981-6
   title: Whole blood RNA sequencing reveals a unique transcriptomic profile in patients
@@ -111,7 +111,7 @@
   date: '2019-01-21'
   link: https://doi.org/grrbbm
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: ac0ef3bc02edf59506e77c32dc4ed8249ebbb3cbd53aa516821ca97d041bd65a
 - id: doi:10.1172/jci.insight.124710
   title: Sirtuin 2 enhances allergic asthmatic inflammation
@@ -131,7 +131,7 @@
   date: '2019-02-21'
   link: https://doi.org/grrbbn
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 2c7c0847886a5900905a46b5ada9ca7fdc5e02958d45f9abb9d06bfc5d98ff9c
 - id: doi:10.1513/AnnalsATS.201801-066CC
   title: Bilateral Lung Masses and Dyspnea in a Young Woman
@@ -143,7 +143,7 @@
   date: '2018-07-01'
   link: https://doi.org/grrbbp
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 2f7f2586e4d1b45eac2787cbff14efcbfe9cc315347f1bea85a9b08de1b3cc14
 - id: doi:10.1056/nejmcps1711048
   title: An Unexpected Expectoration
@@ -157,7 +157,7 @@
   date: '2018-03-01'
   link: https://doi.org/grrbbq
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: a0a6414854531ebe54d25b1f752ce6191ab21571f0ddadcd84f0f7a00f4bf24f
 - id: doi:10.1038/s41598-017-12044-9
   title: Using a Novel Microfabricated Model of the Alveolar-Capillary Barrier to
@@ -177,28 +177,8 @@
   date: '2017-09-14'
   link: https://doi.org/gbzqks
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 8176f154b136a7cf1a76942d6a48205483ffc4393b297b5f77adc2d23841915d
-- id: pmc:PMC5599538
-  title: Using a Novel Microfabricated Model of the Alveolar-Capillary Barrier to
-    Investigate the Effect of Matrix Structure on Atelectrauma
-  authors:
-  - N Higuita-Castro
-  - M T Nelson
-  - V Shukla
-  - P A Agudelo-Garcia
-  - W Zhang
-  - S M Duarte-Sanmiguel
-  - J A Englert
-  - J J Lannutti
-  - D J Hansford
-  - S N Ghadiali
-  publisher: Scientific reports
-  date: '2017-09-14'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5599538/
-  orcid: 0000-0002-1257-2239
-  page: tim-member
-  _cache: 5d0125b7464a3a5a9da8418a933025e38637eb536eb8c9253225ef279f5b1bed
 - id: pmc:PMC5453708
   title: Zinc deficiency primes the lung for ventilator-induced injury
   authors:
@@ -222,7 +202,7 @@
   date: '2017-06-02'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5453708/
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: d75969a0d940c1d6ba8cf5c83d4cdc00abc4563c163a462d5c40e147945970b7
 - id: doi:10.1172/jci.insight.86507
   title: Zinc deficiency primes the lung for ventilator-induced injury
@@ -246,7 +226,7 @@
   date: '2017-06-02'
   link: https://doi.org/gbgt9v
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 3800d36db52f980fdf70b6aa80e927054a965620fcf1f7f973f4a8cbc1e02598
 - id: doi:10.1097/ccm.0000000000002385
   title: "Steroids and \u03B2-Agonists in Acute Respiratory Distress Syndrome"
@@ -257,7 +237,7 @@
   date: '2017-05-01'
   link: https://doi.org/grrbbr
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 3be47157e6bcfd418a3730f2df0dab78fad9da3e69630f7a2c9447aece47ecaf
 - id: pmc:PMC5407070
   title: Ventilator-induced lung injury increases expression of endothelial inflammatory
@@ -275,7 +255,7 @@
   date: '2017-04-01'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5407070/
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: bce94064abfadf7c961237b3e63cc35042af7c51931f3ddc3b1d1ba7bb557905
 - id: doi:10.1152/ajprenal.00523.2016
   title: Ventilator-induced lung injury increases expression of endothelial inflammatory
@@ -293,7 +273,7 @@
   date: '2017-04-01'
   link: https://doi.org/f923g8
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 56e59f6bbad2594aa1ad9fb379510966759e9877acaf58176c988d9eb36f4d11
 - id: pmc:PMC5359535
   title: Mesenchymal Stromal Cells Deficient in Autophagy Proteins Are Susceptible
@@ -314,7 +294,7 @@
   date: '2017-03-01'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5359535/
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 59c41c5bd55e8f3b5943918f9ce4e6e3422efa1ab40d304a49e9331cf0a5cf95
 - id: doi:10.1165/rcmb.2016-0061oc
   title: Mesenchymal Stromal Cells Deficient in Autophagy Proteins Are Susceptible
@@ -335,7 +315,7 @@
   date: '2017-03-01'
   link: https://doi.org/f927gt
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 97b4c282d360a599cb9a183441ecbb7bd92b30f233ced62399b563829bf30fc2
 - id: doi:10.1164/rccm.201604-0818le
   title: Interstitial Lung Abnormalities Are Associated with Acute Respiratory Distress
@@ -357,7 +337,7 @@
   date: '2017-01-01'
   link: https://doi.org/grrbbt
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 5129a1986fe9cdcd055f2e68ded93bbde713d868441b8775f765e61277549b3c
 - id: pmc:PMC5214919
   title: Interstitial Lung Abnormalities Are Associated with Acute Respiratory Distress
@@ -379,7 +359,7 @@
   date: '2017-01-01'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5214919/
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 48dc6d37ac47b578fb324c57b1a6c882719903a480f941709618d7ce52b3104f
 - id: pmc:PMC5084839
   title: Metabolism, Metabolomics, and Nutritional Support of Patients with Sepsis
@@ -390,7 +370,7 @@
   date: '2016-06-01'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5084839/
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 2d20d46bb356cbbe40d100f3f8fc5ac42ea0b733b7b344b255b267ada3183e7a
 - id: doi:10.1016/j.ccm.2016.01.011
   title: Metabolism, Metabolomics, and Nutritional Support of Patients with Sepsis
@@ -401,7 +381,7 @@
   date: '2016-06-01'
   link: https://doi.org/f8szxs
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 5a3e21f38e7043ae72774cfa46a5bb4cce5620800904843ed898ac66f2bb2d28
 - id: doi:10.1039/c5lc01110h
   title: Broad spectrum immunomodulation using biomimetic blood cell margination for
@@ -420,7 +400,7 @@
   date: '2016-01-01'
   link: https://doi.org/grrbbv
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 677a80f5f4c693d20dc50c623a337fd2627fe8f55de9f92be7e71fddfd5f5eee
 - id: pmc:PMC4747785
   title: Broad spectrum immunomodulation using biomimetic blood cell margination for
@@ -439,7 +419,7 @@
   date: '2016-02-21'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4747785/
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 5c53cac82c4c2336bf50ba15eb6266245710585674e315c4ba302a6115bf024e
 - id: doi:10.1097/aln.0000000000000742
   title: Isoflurane Ameliorates Acute Lung Injury by Preserving Epithelial Tight Junction
@@ -463,7 +443,7 @@
   date: '2015-08-01'
   link: https://doi.org/f7wmvw
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 59a3e6ea7b15265b87e8bfe1c14ed20469454468d8c1ac075301508d812e72a6
 - id: pmc:PMC4510009
   title: Isoflurane Ameliorates Acute Lung Injury by Preserving Epithelial Tight Junction
@@ -487,7 +467,7 @@
   date: '2015-08-01'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4510009/
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 1912465e0e5819bf9147028059147b9cffdefbe512927403abd5bb4b577cdb8c
 - id: pmc:PMC4162491
   title: Circadian rhythm reprogramming during lung inflammation
@@ -512,7 +492,7 @@
   date: '2014-09-11'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4162491/
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 0a55586f031d7bbcdf2d5491560ede2acc9491ade21f301b74fb3a0e526db383
 - id: doi:10.1038/ncomms5753
   title: Circadian rhythm reprogramming during lung inflammation
@@ -537,7 +517,7 @@
   date: '2014-09-11'
   link: https://doi.org/f6j5b6
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 1394020b4604d416fc40aad8463af98174f4b00808b319eea7552c46968640e0
 - id: doi:10.1165/rcmb.2011-0447oc
   title: Chronic Endotoxin Exposure Produces Airflow Obstruction and Lung Dendritic
@@ -559,7 +539,7 @@
   date: '2012-08-01'
   link: https://doi.org/f36j6j
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: ae863c0f1a95c3fbfec7962a07444f3fc6dcc87bcca2f3e069b7aab73476707f
 - id: pmc:PMC3423463
   title: Chronic endotoxin exposure produces airflow obstruction and lung dendritic
@@ -581,7 +561,7 @@
   date: '2012-08-01'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3423463/
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 9bfd2d9c156ad81fc358829bf7370738a18aac7700b87dc61987fd3a9920d933
 - id: pmc:PMC3208135
   title: Cyclooxygenase-2 deficiency leads to intestinal barrier dysfunction and increased
@@ -605,7 +585,7 @@
   date: '2011-11-15'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3208135/
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 10f07835d3e71cd93b1c3194ff30e3be51122f93ed4eeaa3e6d1099cd989ac06
 - id: doi:10.4049/jimmunol.1101186
   title: Cyclooxygenase-2 Deficiency Leads to Intestinal Barrier Dysfunction and Increased
@@ -629,7 +609,7 @@
   date: '2011-11-15'
   link: https://doi.org/b2kpfg
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 3cf1c80cfebca52f2b5e3c8f42d3a233335a7bb8a7fe00c4449d80815dfbc8ea
 - id: pmc:PMC3127049
   title: Characterization of macroautophagic flux in vivo using a leupeptin-based
@@ -646,7 +626,7 @@
   date: '2011-06-01'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3127049/
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: f28e086bd5829e83bc07b3b7cd4a3c9d66e52c012d55dba0a78590b10e596016
 - id: doi:10.4161/auto.7.6.15100
   title: Characterization of macroautophagic flux in vivo using a leupeptin-based
@@ -663,7 +643,7 @@
   date: '2011-06-01'
   link: https://doi.org/d9m4p8
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: d2544dffe0b860988b8f55e53dfcef76ecca9666cb223b535f239e85c43f16d6
 - id: pmc:PMC3079381
   title: Autophagy proteins regulate innate immune responses by inhibiting the release
@@ -686,7 +666,7 @@
   date: '2011-03-01'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3079381/
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 6cc39847837518206904bb4dce86eb63e917179012529c8b2272fc851d0dd0f1
 - id: doi:10.1038/ni.1980
   title: Autophagy proteins regulate innate immune responses by inhibiting the release
@@ -709,7 +689,7 @@
   date: '2010-12-12'
   link: https://doi.org/cj2q5z
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 1caf7be282d100c3c11944cd7a029f0844e57bfc4fa29a8684b8152a69006bf1
 - id: doi:10.1124/jpet.105.092841
   title: The Phase 2 Enzyme Inducers Ethacrynic Acid, DL-Sulforaphane, and Oltipraz
@@ -728,31 +708,8 @@
   date: '2005-12-28'
   link: https://doi.org/b9bn8m
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 9578ff2cb62fbc5d26fe717fe176de32afc15324fa392bcbcdea1d4f8dc46e97
-- id: pmc:PMC1578769
-  title: Anti-HMGB1 neutralizing antibody ameliorates gut barrier dysfunction and
-    improves survival after hemorrhagic shock
-  authors:
-  - Runkuan Yang
-  - Tomoyuki Harada
-  - Kevin P Mollen
-  - Jose M Prince
-  - Ryan M Levy
-  - Joshua A Englert
-  - Margot Gallowitsch-Puerta
-  - LiHong Yang
-  - Huan Yang
-  - Kevin J Tracey
-  - Brian G Harbrecht
-  - Timothy R Billiar
-  - Mitchell P Fink
-  publisher: Molecular medicine (Cambridge, Mass.)
-  date: '2006-01-01'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1578769/
-  orcid: 0000-0002-1257-2239
-  page: tim-member
-  _cache: 96ac7dcf068a206dd45971ca8f799d71e9c584b93d1599e042f931dc88dfc69a
 - id: doi:10.2119/2006-00010.yang
   title: Anti-HMGB1 Neutralizing Antibody Ameliorates Gut Barrier Dysfunction and
     Improves Survival after Hemorrhagic Shock
@@ -774,7 +731,7 @@
   date: '2006-04-01'
   link: https://doi.org/dr6xs7
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 66f34fbd9ff7e4d2976e9e2ffc5ebb757637ce87be6154eb5a5444d3b6db202e
 - id: doi:10.1016/j.bcp.2005.08.015
   title: The ethyl pyruvate analogues, diethyl oxaloproprionate, 2-acetamidoacrylate,
@@ -795,7 +752,7 @@
   date: '2005-11-01'
   link: https://doi.org/ftr6q2
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 876f08ffee472f26931df309fda6ab0d1c341d61e2145db52b3861b309decb09
 - id: doi:10.1007/s11908-005-0006-0
   title: The multiple organ dysfunction syndrome and late-phase mortality in sepsis
@@ -806,7 +763,7 @@
   date: '2005-09-01'
   link: https://doi.org/bptfb2
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 47a28144b90e3fe91dbc8d5762eab98f3bcfd6a67c9a55763338fe646873c3b3
 - id: doi:10.1007/s00134-005-2601-9
   title: Bile modulates intestinal epithelial barrier function via an extracellular
@@ -823,7 +780,7 @@
   date: '2005-03-22'
   link: https://doi.org/cz44v4
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 9338d541fbc913c61f3ec7175ca7914b86b8cde6d327821f50b925444ee3a554
 - id: doi:10.1124/jpet.104.079707
   title: "Ethyl Pyruvate Inhibits Nuclear Factor-\u03BAB-Dependent Signaling by Directly\
@@ -838,7 +795,7 @@
   date: '2004-11-03'
   link: https://doi.org/c2s5jn
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: 20bd0ea5936953c435b52faa7e0afd5139e48e8439e3ae79d41000ad07ab19a7
 - id: doi:10.1097/01.shk.0000150629.53699.3f
   title: ETHACRYNIC ACID INHIBITS MULTIPLE STEPS IN THE NF-??B SIGNALING PATHWAY
@@ -851,25 +808,5 @@
   date: '2005-01-01'
   link: https://doi.org/cqsjjg
   orcid: 0000-0002-1257-2239
-  page: tim-member
+  page: joshua
   _cache: ea817f6e55488f71a8adc99156464ef97d3adcac5be8925c127b589fa301b186
-- id: doi:10.1101/2021.10.13.464281
-  title: PRMT5 in T cells drives Th17 responses, mixed granulocytic inflammation and
-    severe allergic airway inflammation
-  authors:
-  - Brandon W. Lewis
-  - Stephanie A. Amici
-  - Hye-Young Kim
-  - Emily Shalosky
-  - Aiman Khan
-  - Joshua Walum
-  - Kymberly M. Gowdy
-  - Joshua A. Englert
-  - Ned A. Porter
-  - Mitchell H. Grayson
-  - Rodney D. Britt
-  - Mireia Guerau-de-Arellano
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-10-14'
-  link: https://doi.org/grrbbh
-  _cache: cae3dad4b045f2622874b65237f4e62866b27aa822ea756292d20012992cb91b

@@ -11,13 +11,13 @@
   {%- assign dark = true -%}
 {%- endif -%}
 
-
-<header {% if background %}class="background"{% endif %} {% if background %}style="--background: url('{{ background | relative_url }}')"{% endif %} data-dark="{{ dark }}">
-  <a
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<header {% if background %}class="background"{% endif %} {% if background %}style="--background: url('{{ background | relative_url }}')"{% endif %} data-dark="{{ dark }}"">  <a
     href="{{ '/' | relative_url }}"
     class="logo_row"
     data-tooltip="Home"
   >
+  
     <img src="{{ site.logo | relative_url }}" class="logo" alt="Logo image" />
     {% if site.logo-text != false %}
       <span class="logo_text">
@@ -28,7 +28,7 @@
       </span>
     {% endif %}
   </a>
-  <nav class="nav_row">
+  <nav class="topnav" id="myTopnav">
     {%- assign pages = site.pages | where_exp: "page", "page.nav" | sort: "nav.order" -%}
     {%- for page in pages -%}
       {%- if page.nav -%}
@@ -36,4 +36,9 @@
       {%- endif -%}
     {%- endfor -%}
   </nav>
+  <div class="navButton">
+  <a href="javascript:void(0);" class="icon" id="myTopnavButton" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+</div>
 </header>

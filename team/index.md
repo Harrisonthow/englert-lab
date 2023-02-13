@@ -20,6 +20,9 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   component="portrait"
   filters="role: pi"
 %}
+
+{% include section.html %}
+
 {%
   include list.html
   data="members"
@@ -30,7 +33,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer"
+  filters="role: undergrad"
 %}
 {:.center}
 
@@ -43,13 +46,13 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Join
 
-#### Post Dogtoral Researcher
+#### Post Doctoral Researcher
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- 3+ (dog) years experience managing bone portfolios
-- Strong desire to learn tricks and go on walkies
-- Aptitude to sit and stay
+- 3+ years experience 
+- Strong desire to learn 
+- Aptitude to work long days and nights
 
 {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
 {:.center}

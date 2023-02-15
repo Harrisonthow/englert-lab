@@ -2,6 +2,9 @@
 title: Englert Lab
 timezone: UTC
 collections:
+  members:
+    title: Members
+    output: true
   posts:
     title: Posts
     output: true

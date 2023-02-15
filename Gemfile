@@ -9,6 +9,7 @@ group :jekyll_plugins do
   gem "jekyll-redirect-from"
   gem "jekyll-feed"
   gem "jekyll-sitemap"
+  gem "jekyll-admin"
 
   # other potentially useful plugins
   # gem "jekyll-github-metadata"
@@ -18,6 +19,11 @@ group :jekyll_plugins do
   # gem "jekyll-relative-links"
   # gem "jemoji"
 end
+
+gem "sinatra-contrib"
+gem "sinatra"
+gem "mustermann"
+gem "ruby2_keywords"
 
 # Windows stuff
 platforms :mingw, :x64_mingw, :mswin, :jruby do

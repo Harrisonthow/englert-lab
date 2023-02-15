@@ -1,25 +1,15 @@
-### basic settings
-
-# site properties and page defaults
 title: Englert Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+description: >-
+  An easy-to-use, flexible website template for labs, with automatic citations,
+  GitHub tag imports, pre-built components, and more.
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: /englert-lab
-
-# site social media and other links
 links:
   email: joshua.englert@osumc.edu
-  # google-scholar: ETJoidYAAAAJ
-  # github: your-lab
+  google-scholar: KBzSz-AAAAAJ
   twitter: joshenglert_md
-  # instagram: YourLabHandle
-  # youtube: YourLabChannel
-
-### advanced settings
-
-# automatic citations
 auto-cite:
   plugins:
     - name: orcid
@@ -29,48 +19,30 @@ auto-cite:
       input:
         - ../_data/sources.yaml
   output: ../_data/citations.yaml
-
-# default front matter parameters for markdown files
 defaults:
-  # all markdown files
   - scope:
-      path: ""
+      path: ''
     values:
       layout: default
-  # markdown files in /_members
   - scope:
-      type: "members"
+      type: members
     values:
       layout: member
-  # markdown files in /_posts
   - scope:
-      type: "posts"
+      type: posts
     values:
       layout: post
-
-# collections
 collections:
   members:
     output: true
-
-# sass settings
 sass:
   sass_dir: css
-
-# syntax highlighting
 highlighter: rouge
-
-# plugins
 plugins:
   - jekyll-redirect-from
   - jekyll-feed
   - jekyll-sitemap
-  # - jekyll-github-metadata
-  # - jekyll-avatar
-  # - jekyll-gist
-  # - jekyll-mentions
-  # - jekyll-relative-links
-  # - jemoji
-
-# jekyll theme
 theme: null
+jekyll_admin:
+  hidden_links: null
+  homepage: pages

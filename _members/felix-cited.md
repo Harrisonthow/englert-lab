@@ -1,7 +1,7 @@
 ---
-name: Felix Cited
+name: Ryelie Barnes
 image: images/member.jpg
-description: Treat Researcher
+description: Undergraduate Research Assistant
 role: undergrad
 group: alum
 aliases:

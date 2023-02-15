@@ -1,15 +1,14 @@
 ---
-name: Anne Chovie
+title: Anne Chovie
+name: Ryelie Barnes
 image: images/member.jpg
-description: Bark Ops Engineer
+description: Undergrad research assistant
 role: undergrad
 aliases:
-  - A. Chovie
-  - A Chovie
+- R. Barnes
+- R Barnes
 links:
-  home-page: annechovie.com
   email: anne@chovie.com
-  github: anne-chovie
 ---
 
 Anne is a good dog.

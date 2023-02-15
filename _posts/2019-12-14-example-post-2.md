@@ -1,5 +1,6 @@
 ---
 title: Example post 2
+date: 2019-12-14 00:00:00 Z
 author: Felix Cited
 member: felix-cited
 ---

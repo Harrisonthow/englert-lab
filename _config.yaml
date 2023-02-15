@@ -1,0 +1,45 @@
+title: Englert Lab
+description: >-
+  An easy-to-use, flexible website template for labs, with automatic citations,
+  GitHub tag imports, pre-built components, and more.
+logo: images/logo.svg
+header: images/background.jpg
+footer: images/background.jpg
+baseurl: /englert-lab
+links:
+  email: joshua.englert@osumc.edu
+  google-scholar: KBzSz-AAAAAJ
+  twitter: joshenglert_md
+auto-cite:
+  plugins:
+    - name: orcid
+      input:
+        - ../_data/orcid.yaml
+    - name: sources
+      input:
+        - ../_data/sources.yaml
+  output: ../_data/citations.yaml
+defaults:
+  - scope:
+      path: ''
+    values:
+      layout: default
+  - scope:
+      type: members
+    values:
+      layout: member
+  - scope:
+      type: posts
+    values:
+      layout: post
+collections:
+  members:
+    output: true
+sass:
+  sass_dir: css
+highlighter: rouge
+plugins:
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-sitemap
+theme: null

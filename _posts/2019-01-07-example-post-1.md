@@ -1,9 +1,10 @@
 ---
 title: Example post 1
+date: 2019-01-07 00:00:00 Z
 tags:
-  - biology
-  - medicine
-  - big data
+- biology
+- medicine
+- big data
 author: Anne Chovie
 member: anne-chovie
 ---

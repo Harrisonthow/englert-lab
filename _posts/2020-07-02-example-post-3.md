@@ -1,6 +1,9 @@
 ---
 title: Example post 3
-tags: biology, medicine
+date: 2020-07-02 00:00:00 Z
+tags:
+- biology,
+- medicine
 author: Upton O. Goode
 member: upton-goode
 ---

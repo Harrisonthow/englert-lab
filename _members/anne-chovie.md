@@ -4,8 +4,8 @@ image: images/member.jpg
 description: Bark Ops Engineer
 role: undergrad
 aliases:
-  - A. Chovie
-  - A Chovie
+- A. Chovie
+- A Chovie
 links:
   home-page: annechovie.com
   email: anne@chovie.com

@@ -5,8 +5,8 @@ description: Undergraduate Research Assistant
 role: undergrad
 group: alum
 aliases:
-  - F. Cited
-  - F Cited
+- F. Cited
+- F Cited
 links:
   home-page: felixcited.com
   email: felix@cited.com

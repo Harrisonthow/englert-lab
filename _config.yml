@@ -2,9 +2,6 @@
 title: Englert Lab
 timezone: UTC
 collections:
-  images:
-    title: Images
-    output: true
   members:
     title: Members
     output: true
